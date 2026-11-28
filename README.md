@@ -13,5 +13,5 @@ Now I'm a student of Corporate Communication at the University of Milan.
 [My own project](https://github.com/ale66/learn-web-playground-2026-27/essays/polinahetmane)
 
 ## Conservatorio campus
-![Conservatorio](images/conservatorio.jpg)
+![Conservatorio](conservatorio.jpg)
 =======
